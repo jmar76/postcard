@@ -1,0 +1,89 @@
+.contenedor-principal{
+	
+			width:600px;
+			height:450px;
+			background-color:white;
+			margin:100px 300px;
+}	
+
+.titulo		{	width:40%;
+			height:8%;
+			position:relative;
+			top:10px;
+			bottom:;
+			right:;
+			left:10px;
+			background-color:white;
+			padding:30px 10px;
+			font-size:28px;
+			
+			
+}
+.logo		{	
+			width:40%;
+			height:20%;
+			position:relative;
+			top:;
+			bottom:80px;
+			right:;
+			left:340px;
+            background-color:white;
+            
+			
+						
+}	
+
+.parrafo	{	width:50%;
+			height:45%;
+			position:relative;
+			top:;
+			bottom:80px;
+			right:;
+			left:15px;
+			background-color:white;
+
+			
+}	
+
+.formulario	{	width:40%;
+			height:46%;
+			position:relative;
+			top:;
+			bottom:280px;
+			right:;
+			left:340px;
+			background-color:white;
+			
+			
+}	
+
+.boton	{		width:50%;
+			height:20%;
+			position:relative;
+			top:;
+			bottom:260px;
+			right:;
+			left:190px;
+			background-color:white;
+			
+}	
+
+body {	
+			font-family: 'Comic Sans MS';
+            font-size:21px;
+            background-color:black;
+
+	
+}					
+.logo img	{	
+			position:absolute;
+            right:0;
+            						
+}				
+
+input {	
+        border-left: none;
+        border-right: none;
+        border-top: none;
+            						
+}				
